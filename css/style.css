@@ -9,7 +9,10 @@
     
 
 }
-nnn
+.head-class {
+    background: rgb(156, 9, 9);
+    width: 100px;
+    height: 80px;
 }
 .contacts {
     margin-left: 40px;
