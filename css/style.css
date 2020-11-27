@@ -13,6 +13,8 @@
     background: rgb(156, 9, 9);
     width: 1120px;
     height: 80px;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 .contacts {
     margin-left: 40px;
