@@ -35,9 +35,7 @@ body {
    background: #F5F7FA;
    padding: 40px;
    font-family: 'Montserrat', sans-serif;
-   max-width: 1200px;
-   margin: 0 auto;
-   box-shadow: 5px 9px 20px rgba(0, 0, 0, 15);
+
 }
 .soft-lol{
     font-size:22px;
